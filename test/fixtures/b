@@ -1,0 +1,9 @@
+'use strict';
+
+function b(a) {
+  return {
+      hello: a.hello
+  };
+}
+
+module.exports = b;
